@@ -1,4 +1,4 @@
-require "./lib/script"
+require "./lib/run"
 
 
 RSpec.configure do |config|
